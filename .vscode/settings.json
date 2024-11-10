@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\jferd\\Downloads\\sql2o-1.6.0.jar"
+    ]
+}
